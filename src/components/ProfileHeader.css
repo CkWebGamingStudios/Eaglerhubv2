@@ -1,0 +1,15 @@
+.profile-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  background: #1f1f1f;
+  padding: 1rem;
+  border-radius: 12px;
+  margin-bottom: 1.5rem;
+}
+
+.avatar {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+}
